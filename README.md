@@ -2,8 +2,6 @@
 
 Public replication package for the study on DSC-SRGM.
 
-Repository URL: https://github.com/taehyounee/DSC-SRGM
-
 ## Overview
 
 This repository provides the materials required to improve reproducibility and transparency of the study. It includes:
@@ -19,7 +17,6 @@ The code is provided in Jupyter notebook (`.ipynb`) format because the experimen
 ```text
 DSC-SRGM-replication/
 ├── README.md
-├── requirements.txt
 ├── code/
 │   ├── DSC_SRGM/
 │   ├── DC_SRGM/
