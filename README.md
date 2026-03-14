@@ -15,7 +15,7 @@ The code is provided in Jupyter notebook (`.ipynb`) format because the experimen
 ## Repository structure
 
 ```text
-DSC-SRGM-replication/
+DSC-SRGM/
 ├── README.md
 ├── code/
 │   ├── DSC_SRGM/
